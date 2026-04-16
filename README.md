@@ -17,7 +17,7 @@ This is a simple SEO and outreach toolkit for organic traffic growth.
 
 ## Tool Access:
 
-(Add your Google Sheet link here)
+https://docs.google.com/spreadsheets/d/1vEmCu120cAu0qCTnYAym9VFuUL2C7dZzqJDsANLVaas/edit?usp=sharing
 
 ## Note:
 
